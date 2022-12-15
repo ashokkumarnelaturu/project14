@@ -25,15 +25,15 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-![Screenshot (900)](https://user-images.githubusercontent.com/117966000/207796348-958b8411-a347-448d-abb4-40e7af50584d.png)
-![Screenshot (901)](https://user-images.githubusercontent.com/117966000/207796359-a7e8b7c2-e5b3-4a9d-bb8a-18560aac9f12.png)
-![Screenshot (902)](https://user-images.githubusercontent.com/117966000/207796369-f7791734-6f82-4804-9f25-07da26845630.png)
-![Screenshot (903)](https://user-images.githubusercontent.com/117966000/207796375-3b7890ee-b809-4697-80c7-ec7b80129c87.png)
-![Screenshot (904)](https://user-images.githubusercontent.com/117966000/207796379-e1a0daac-a061-4ccd-9852-7b50f0e8fae3.png)
-![Screenshot (905)](https://user-images.githubusercontent.com/117966000/207796385-4b50fcb4-aa4e-41d5-bc48-f6be09f1828a.png)
-![Screenshot (906)](https://user-images.githubusercontent.com/117966000/207796390-f8b4714e-62c8-4d6e-b809-065365d3b937.png)
-![Screenshot (907)](https://user-images.githubusercontent.com/117966000/207796393-a1b56775-44ba-45cd-b820-cca0dcbf4db0.png)
-![Screenshot (908)](https://user-images.githubusercontent.com/117966000/207796401-bf4dc2a0-2909-4e88-b63e-b95beba61e41.png)
+![Screenshot (925)](https://user-images.githubusercontent.com/117966000/207799235-60d4170b-ce3c-4ffc-a424-2d17e2d602ab.png)
+![Screenshot (926)](https://user-images.githubusercontent.com/117966000/207799255-3ef590a9-a94a-49c8-b446-a158e0f1b889.png)
+![Screenshot (927)](https://user-images.githubusercontent.com/117966000/207799267-c3ed41bd-0ccb-4abd-928c-33f42ee9daa2.png)
+![Screenshot (928)](https://user-images.githubusercontent.com/117966000/207799268-2166a91a-78b3-4ece-ab1b-1b34ccc168fa.png)
+![Screenshot (929)](https://user-images.githubusercontent.com/117966000/207799284-8705c912-c96a-457e-adbf-b7479674ac4b.png)
+![Screenshot (930)](https://user-images.githubusercontent.com/117966000/207799301-7b4e3bd7-3e87-4cae-b6ce-684f79f7ed48.png)
+![Screenshot (931)](https://user-images.githubusercontent.com/117966000/207799314-174e20bd-5732-4244-b74e-b5edcd8edc82.png)
+![Screenshot (932)](https://user-images.githubusercontent.com/117966000/207799316-5f0a19ec-d5c4-4705-ba85-2a7c7f6b93d4.png)
+![Screenshot (933)](https://user-images.githubusercontent.com/117966000/207799320-981ebd57-2cd3-4812-873a-2d9ed490a9f6.png)
 
 ### About Us -
 
@@ -60,7 +60,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (923)](https://user-images.githubusercontent.com/117966000/207797672-f2be8ed0-8fce-4641-86a7-d159f9e74e2a.png)
 
 ### health bot
-![Screenshot (924)](https://user-images.githubusercontent.com/117966000/207797852-614cbd22-8d2b-49d9-bfba-945cfc5b1d1b.png)
+![Screenshot (934)](https://user-images.githubusercontent.com/117966000/207799465-29d49122-27da-47fd-bee8-38fa6e3e827f.png)
 
 ## Tech Stack 
 
