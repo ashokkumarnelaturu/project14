@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://ashy-forest-0a0c19400.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtube.com/watch?v=5uKtQE1Npco&si=EnSIkaIECMiOmarE
 
 ## Azure technologies used for Project
 
@@ -68,4 +68,5 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+- BOOTSTRAP
 
